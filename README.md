@@ -1,5 +1,4 @@
-# Techstack
-技术栈
+# 技术栈
 
 Airbnb 技术栈:https://github.com/airbnb
 
